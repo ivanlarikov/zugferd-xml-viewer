@@ -1,0 +1,12 @@
+{
+    "name": "gfrsoftware/xml-viewer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ivan Larikov"
+        }
+    ],
+    "require": {
+        "horstoeko/zugferdvisualizer":"^1"
+    }
+}
